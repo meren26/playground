@@ -1,2 +1,2 @@
 # playground
-various notebooks
+📚 Various notebooks for explorations
