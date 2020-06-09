@@ -7,7 +7,7 @@ from sklearn.model_selection import cross_val_score
 
 def get_classification_scores(classifier, X_test, y_test):
     """
-    Returns classification evaluations.
+    Prints classification evaluations.
 
     classifier: cf object
     X_test, y_test
@@ -28,7 +28,7 @@ def get_classification_scores(classifier, X_test, y_test):
 
 def get_regression_scores(regressor, X_test, y_test):
     """
-    Returns regression evaluations.
+    Prints regression evaluations.
 
     regressor: rg object
     X_test, y_test
