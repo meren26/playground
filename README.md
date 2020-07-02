@@ -8,9 +8,12 @@
 - Classification
     - [Titanic](notebooks/Titanic.ipynb)    
     - [Mushroom](notebooks/Mushroom.ipynb)   
+    - [AirbnbDestination](notebooks/AirbnbDestination.ipynb)   
     
 - Regression
     - [HousePrices](notebooks/HousePrices.ipynb)
+    - [AllstateClaim](notebooks/AllstateClaim.ipynb)
+
     
 - Tensorflow
     - [HouseSalePrediction](notebooks/HouseSalePrediction.ipynb)
